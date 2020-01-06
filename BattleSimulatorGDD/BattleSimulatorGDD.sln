@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BattleSimulatorGDD", "BattleSimulatorGDD\BattleSimulatorGDD.vcxproj", "{475BF0BB-483A-4077-9B0C-50AB3F03B7DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{475BF0BB-483A-4077-9B0C-50AB3F03B7DC}.Debug|x64.ActiveCfg = Debug|x64
+		{475BF0BB-483A-4077-9B0C-50AB3F03B7DC}.Debug|x64.Build.0 = Debug|x64
+		{475BF0BB-483A-4077-9B0C-50AB3F03B7DC}.Debug|x86.ActiveCfg = Debug|Win32
+		{475BF0BB-483A-4077-9B0C-50AB3F03B7DC}.Debug|x86.Build.0 = Debug|Win32
+		{475BF0BB-483A-4077-9B0C-50AB3F03B7DC}.Release|x64.ActiveCfg = Release|x64
+		{475BF0BB-483A-4077-9B0C-50AB3F03B7DC}.Release|x64.Build.0 = Release|x64
+		{475BF0BB-483A-4077-9B0C-50AB3F03B7DC}.Release|x86.ActiveCfg = Release|Win32
+		{475BF0BB-483A-4077-9B0C-50AB3F03B7DC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5586775-3CEE-45B8-AD89-C0E3E3158971}
+	EndGlobalSection
+EndGlobal

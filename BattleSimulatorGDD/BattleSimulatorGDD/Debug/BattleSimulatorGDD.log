@@ -1,0 +1,3 @@
+﻿  BattleSimulator.cpp
+c:\users\manav\documents\github\battlesimulatorgdd\battlesimulatorgdd\battlesimulatorgdd\battlesimulator.cpp(980): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  BattleSimulatorGDD.vcxproj -> C:\Users\Manav\Documents\GitHub\BattleSimulatorGDD\BattleSimulatorGDD\Debug\BattleSimulatorGDD.exe

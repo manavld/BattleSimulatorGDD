@@ -1,0 +1,6 @@
+﻿  BattleSimulator.cpp
+BattleSimulator.cpp(980): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código
+  All 89 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  BattleSimulatorGDD.vcxproj -> C:\Users\Manav\Documents\GitHub\BattleSimulatorGDD\BattleSimulatorGDD\Release\BattleSimulatorGDD.exe
